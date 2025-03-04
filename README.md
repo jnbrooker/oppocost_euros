@@ -1,1 +1,1 @@
-/ This project was created using Statsbomb free data
+# This project was created using Statsbomb free data
